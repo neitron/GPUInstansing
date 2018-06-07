@@ -5,3 +5,5 @@ The small test projhect to test the unity GPU instancing feature
 There are over 7000 Unity spheres on the scene with different color, metalic and smoothness params.
 <br/><br/>
 <img src="https://github.com/neitron/GPUInstansing/blob/master/Readme/WoamvHz%20-%20Imgur.gif">
+
+Unity 2017.3.0f3
